@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "name": "projet_exercice_ejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
